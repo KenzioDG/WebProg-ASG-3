@@ -11,7 +11,12 @@
 
 Berikut adalah attempt saya dalam membuat web yang menggunakan relationship yang telah ditentukan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model. Satu student memiliki banyak subject.
 
-![image](https://user-images.githubusercontent.com/127408388/230774204-9478a536-0ef9-4638-b39c-d14f35304b94.png)
+### Home
+![image](https://user-images.githubusercontent.com/127408388/230779110-d4bb9d75-5108-4219-b11e-8f2a2a69e384.png)
+
+### Index
+![image](https://user-images.githubusercontent.com/127408388/230779165-102482cd-d228-4622-923a-752777b84a96.png)
+
 
 ## Learning Laravel
 
