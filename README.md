@@ -9,16 +9,9 @@
 
 ## Pemanasan Malam Minggu
 
-Berikut adalah attempt saya dalam membuat web yang menggunakan relationship yang telah ditentukan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model.
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Berikut adalah attempt saya dalam membuat web yang menggunakan relationship yang telah ditentukan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model. Satu student memiliki banyak subject.
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+![image](https://user-images.githubusercontent.com/127408388/230774204-9478a536-0ef9-4638-b39c-d14f35304b94.png)
 
 ## Learning Laravel
 
