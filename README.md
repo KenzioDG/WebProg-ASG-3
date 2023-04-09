@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Pemanasan Malam Minggu
+## Pemanasan UTS
 
 Berikut adalah attempt saya dalam membuat web yang menggunakan relationship yang telah ditentukan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model. Satu student memiliki banyak subject.
 
