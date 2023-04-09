@@ -13,7 +13,7 @@ Kenzio - 2440022025
 Berikut adalah attempt saya dalam membuat web yang menggunakan ketentuan yang telah ditetapkan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model. Satu student memiliki banyak subject.
 
 ## Home
-![image](https://user-images.githubusercontent.com/127408388/230779394-61f30deb-ae3d-40c4-b470-408d9420ccea.png)
+![image](https://user-images.githubusercontent.com/127408388/230782015-2cfc7d6b-392a-4a60-80af-5958e6904731.png)
 
 ## Index
 ![image](https://user-images.githubusercontent.com/127408388/230779165-102482cd-d228-4622-923a-752777b84a96.png)
