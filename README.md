@@ -10,7 +10,7 @@
 ## Pemanasan UTS
 Kenzio - 2440022025
 
-Berikut adalah attempt saya dalam membuat web yang menggunakan relationship yang telah ditentukan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model. Satu student memiliki banyak subject.
+Berikut adalah attempt saya dalam membuat web yang menggunakan ketentuan yang telah ditetapkan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model. Satu student memiliki banyak subject.
 
 ## Home
 ![image](https://user-images.githubusercontent.com/127408388/230779394-61f30deb-ae3d-40c4-b470-408d9420ccea.png)
