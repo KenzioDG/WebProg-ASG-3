@@ -12,7 +12,7 @@
 Berikut adalah attempt saya dalam membuat web yang menggunakan relationship yang telah ditentukan. Sayangnya sejauh ini saya belum bisa tuntas dan baru hanya menggunakan one-to-many relationship pada student model. Satu student memiliki banyak subject.
 
 ## Home
-![image](https://user-images.githubusercontent.com/127408388/230779276-edd93f1f-2843-42e1-b01c-11556154e340.png)
+![image](https://user-images.githubusercontent.com/127408388/230779394-61f30deb-ae3d-40c4-b470-408d9420ccea.png)
 
 ## Index
 ![image](https://user-images.githubusercontent.com/127408388/230779165-102482cd-d228-4622-923a-752777b84a96.png)
