@@ -2,10 +2,11 @@
 <html>
 <head>
     <title>Student Scores</title>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,700" rel="stylesheet">
     <style>
         * {
             box-sizing: border-box;
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
         }
 
         body {
@@ -15,7 +16,7 @@
         }
 
         header {
-            background-color: #007bff;
+            background-color: #0077b6;
             color: #fff;
             padding: 20px;
             text-align: center;
@@ -43,7 +44,7 @@
         }
 
         th {
-            background-color: #007bff;
+            background-color: #0077b6;
             color: #fff;
         }
 
