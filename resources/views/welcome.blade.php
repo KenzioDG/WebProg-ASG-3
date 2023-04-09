@@ -61,7 +61,7 @@
     <div class="intro">
         <div class="container">
             <h1>Welcome</h1>
-            <p>In this webpage you are will be able to see student scores and the subjects they are enrolled in.</p>
+            <p>In this webpage you will be able to see student scores and the subjects they are enrolled in.</p>
 
             Kenzio Dewapramadhani Ganinda - 2440022025
             <p></p>
