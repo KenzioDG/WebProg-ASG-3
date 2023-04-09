@@ -61,8 +61,10 @@
     <div class="intro">
         <div class="container">
             <h1>Welcome</h1>
-            <p>In this page you are able to see your scores and the subjects you are enrolled in.</p>
-            <p>This is my webpage which uses the functionality of:</p>
+            <p>In this webpage you are will be able to see student scores and the subjects they are enrolled in.</p>
+
+            Kenzio Dewapramadhani Ganinda - 2440022025
+            <p></p>
             This uses:
             <li>Seeder</li>
             <li>Factory</li>
